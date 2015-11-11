@@ -1,0 +1,4 @@
+The issue with the MD5 code was that I was re-using the same
+Old MD5 object to process the password and hence the initialization
+values for the MD5 object were wrong. The initialization values
+are initialized in the MD5 constructor.

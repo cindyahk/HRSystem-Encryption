@@ -1,0 +1,34 @@
+c:\documents and settings\cindy\my documents\visual studio 2010\Projects\HRSystem\HRSystem\bin\HRSystem.dll
+c:\documents and settings\cindy\my documents\visual studio 2010\Projects\HRSystem\HRSystem\bin\HRSystem.pdb
+c:\documents and settings\cindy\my documents\visual studio 2010\Projects\HRSystem\HRSystem\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\cindy\my documents\visual studio 2010\Projects\HRSystem\HRSystem\obj\Debug\HRSystem.dll
+c:\documents and settings\cindy\my documents\visual studio 2010\Projects\HRSystem\HRSystem\obj\Debug\HRSystem.pdb
+E:\ASP\HRSystem\HRSystem\bin\HRSystem.dll
+E:\ASP\HRSystem\HRSystem\bin\HRSystem.pdb
+E:\ASP\HRSystem\HRSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\ASP\HRSystem\HRSystem\obj\Debug\HRSystem.dll
+E:\ASP\HRSystem\HRSystem\obj\Debug\HRSystem.pdb
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.csprojResolveAssemblyReference.cache
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.pdb
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\HRSystem.dll.config
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\HRSystem.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\HRSystem.pdb
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\AjaxControlToolkit.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\AjaxControlToolkit.pdb
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Cindy\Desktop\HRSystem\HRSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll

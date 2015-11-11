@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/pMain.aspx" title="Home" description="">
+  
+    <siteMapNode url="" title="Information Management"  description="">
+      <siteMapNode url="~/InfoMan/DeptMan.aspx" title="Department"  description="Department Management" />
+      <siteMapNode url="~/InfoMan/EmpMan.aspx" title="Employee"  description="" />
+    </siteMapNode>
+    
+    <siteMapNode url="" title="System Management"  description="">     
+      <siteMapNode url="" title="User Management"  description="Add/Remove/Modify User">
+        <siteMapNode url="~/SysMan/UserMan.aspx" title="View All Users"  description="View All Users"/>
+        <siteMapNode url="~/SysMan/AddUser.aspx" title="Add New User"  description="Add User"/>
+        <siteMapNode url="~/SysMan/ModifyUser.aspx" title="Modify User"  description="Add User"/>
+      </siteMapNode>     
+      <siteMapNode url="~/SysMan/ResetPassword.aspx" title="Reset Password"  description="Reset Password" />      
+    </siteMapNode>
+    
+  </siteMapNode>
+</siteMap>
